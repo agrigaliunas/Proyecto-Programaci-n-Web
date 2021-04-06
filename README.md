@@ -7,5 +7,4 @@ Para correr la web, es necesario un paquete de software con sistema de gestion d
 En nuestro caso usamos XAMPP.
 
 Desarrollado por:
-Agustin Grigaliunas
-Tomas Ferrari
+Agustin Grigaliunas ; Tomas Ferrari
