@@ -1,10 +1,11 @@
-Sitio de venta de ropa.
-Es una web en donde el dueño puede cargar y/o borrar prendas de ropa. La funcion del carrito no fue implementada en este proyecto.
+Clothing e-commerce.
+This was made for "web programming" subject at Universidad Católica Argentina in 2020.
+It was mandatory to use vanilla javascript. No frameworks, no libraries. Same as CSS.
 
-Requisitos:
-Para la lectura del codigo, usar editor de texto.
-Para correr la web, es necesario un paquete de software con sistema de gestion de SQL, PHP, y un servidor web APACHE.
-En nuestro caso usamos XAMPP.
+For the backend we used PHP and MySQL for the database management.
 
-Desarrollado por:
-Agustin Grigaliunas ; Tomas Ferrari
+Requirements for running this web:
+We set up a web server with "XAMPP", but you can use whatever you want. It's necessary to use a management system for PHP and SQL.
+
+Developed by:
+Agustin Grigaliunas and Tomas Ferrari
